@@ -1,6 +1,4 @@
-# The Last Of Us
 
-## Descrição
 
 # Projeto The Last of Us
 
